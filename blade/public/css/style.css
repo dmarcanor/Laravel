@@ -1,0 +1,47 @@
+body, *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    text-align: center;
+    background-color: grey;
+}
+
+.main{
+    padding-top: 50px;
+    text-align: center;
+}
+
+.footer{
+    text-align: right;
+    background: rgb(50,50,50);
+}
+
+.full-width{
+    width: 100vw;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.bottom{
+    bottom: 0;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.table{
+    border: 1px solid grey;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.thead{
+    background: rgb(63, 60, 60);
+    color: white;
+}
